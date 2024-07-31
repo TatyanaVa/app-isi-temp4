@@ -1,0 +1,7 @@
+peliculas.db
+
+*.js
+
+*.jpg
+
+/imagenes/
